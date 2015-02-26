@@ -8,3 +8,5 @@ http://www.codepool.biz/tech-frontier/html5/how-to-implement-a-real-time-commnic
 
 http://www.algoworks.com/blog/how-to-create-your-first-webrtc-application-part-1/
 http://www.algoworks.com/blog/how-to-create-your-first-webrtc-application-part-2/
+
+https://bitbucket.org/webrtc/codelab/src/6daf0496dc78e1704cb9b71b9e897e829a347561/complete/step6/js/main.js?at=step-x
