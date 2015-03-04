@@ -12,3 +12,5 @@ http://www.algoworks.com/blog/how-to-create-your-first-webrtc-application-part-2
 https://bitbucket.org/webrtc/codelab/src/6daf0496dc78e1704cb9b71b9e897e829a347561/complete/step6/js/main.js?at=step-x
 
 http://blog.mgechev.com/2014/12/26/multi-user-video-conference-webrtc-angularjs-yeoman/
+
+https://www.twilio.com/blog/2014/12/set-phasers-to-stunturn-getting-started-with-webrtc-using-node-js-socket-io-and-twilios-nat-traversal-service.html
